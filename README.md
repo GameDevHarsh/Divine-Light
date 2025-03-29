@@ -3,6 +3,9 @@
 ## 🕹️ About the Game
 **Divine Light** is a 2D top-down RPG puzzle game developed during a game jam, themed around **Chain Reaction**. You play as an adventurer trapped in a dark maze, guided only by a divine light. Your goal is to strategically place and rotate mirrors to reflect the light, illuminating the path and melting icy doors to escape.
 
+## 📽 Gameplay Video
+https://github.com/user-attachments/assets/e39ad9eb-9bfa-4f3f-b536-2b14ebe7172a
+
 ## 🎮 Gameplay Features
 - **Light Reflection Puzzle**: Use **mirrors** to guide the divine light and create a continuous **chain reaction**.
 - **Dynamic Light System**: Implemented using **Line Renderer** and **Physics2D.Raycast**, allowing real-time light path adjustments.
