@@ -37,7 +37,11 @@ https://github.com/user-attachments/assets/e39ad9eb-9bfa-4f3f-b536-2b14ebe7172a
 - Developed as part of a **game jam** with a team of 4.
 - **Role:** Lead Game Developer & Game Designer.
 - Theme: **Chain Reaction** (implemented through light reflection mechanics).
-
+- 
+## Installation
+1. **Download and install** the game from https://drive.google.com/file/d/1vGINW3amn-uPgoZCIEfKjdYbhazMQlcb/view?usp=drive_link.
+2. Run the game executable.
+3. Enjoy the immersive experience of **Divine Light**!
 
 ## 🎮 Controls
 | Action      | Key |
