@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/e39ad9eb-9bfa-4f3f-b536-2b14ebe7172a
 - Theme: **Chain Reaction** (implemented through light reflection mechanics).
   
 ## Installation
-1. **Download and install** the game from https://drive.google.com/file/d/1vGINW3amn-uPgoZCIEfKjdYbhazMQlcb/view?usp=drive_link.
+1. **Download** the game from https://drive.google.com/file/d/1vGINW3amn-uPgoZCIEfKjdYbhazMQlcb/view?usp=drive_link.
 2. Run the game executable.
 3. Enjoy the immersive experience of **Divine Light**!
 
